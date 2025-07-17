@@ -2,6 +2,9 @@
 
 A modern React-based online plant shop featuring product listings, cart management, and a clean user experience.
 
+## Live Demo
+
+- **Live View:** [Open in Browser](https://plant-shopsa.netlify.app/)
 
 ---
 
