@@ -2,9 +2,8 @@
 
 A modern React-based online plant shop featuring product listings, cart management, and a clean user experience.
 
-## Demo
-
-[Live Demo](https://github.com/ShahriarTbc/plant-shop)
+## 🚀 Live Demo
+[View on GitHub Pages](https://shahriartbc.github.io/plant-shop/)
 
 ## Features
 
